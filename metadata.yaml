@@ -17,6 +17,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/j#a26500
     - http://en.wikipedia.org/wiki/Daniel_Defoe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14436#Military-Memoirs-of-Capt.-George-Carleton
 gutenberg_issued: '2004-12-23'
 gutenberg_type: Text
 identifiers:
